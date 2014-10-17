@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuf:home|Door43 (nuf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuf|d43-nuf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuf/archive/master.zip|d43-nuf.zip]]
+
+**Recent Changes**
+{{changes>ns = nuf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuf|Ethnologue data]]
+
